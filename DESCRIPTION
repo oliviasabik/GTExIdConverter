@@ -6,3 +6,4 @@ Description: GTEx IDs are formatted as chr_pos_allele1_allele2_build, however ma
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0

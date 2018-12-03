@@ -8,7 +8,7 @@
 #' @examples
 #' \dontrun{
 #' data(gtex_variant_ids)
-#' gtexIdConvert()
+#' gtexIdConvert()}
 #'
 
 GTExIdConvert <- function(variant_ids){
