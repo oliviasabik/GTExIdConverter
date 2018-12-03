@@ -1,0 +1,8 @@
+Package: GTExIdConverter
+Title: GTExIdConverter converts GTEx variant ID to rsIDs.
+Version: 0.0.0.9000
+Authors@R: person("Olivia", "Sabik", email = "ols5fg@virginia.edu", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-2334-5936"))
+Description: GTEx IDs are formatted as chr_pos_allele1_allele2_build, however many tools require you to have rsID numbers to process this data. This tool will convert GTEx variant IDs to rsIDs.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
