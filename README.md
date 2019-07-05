@@ -20,7 +20,7 @@ GTExIdConvert("6_31186208_A_G_b37")
 ids = c("10_64851_AT_A_b37", "10_61803062_T_G_b37")
 GTExIdConvert(variant_ids = ids)
 ```
-#output:
+# output:
 ```
            variant_id rs_id 
 1 10_61803062_T_G_b37 rs1002442
